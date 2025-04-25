@@ -9,3 +9,5 @@ def model2():
 def model3():
     print("This is model 3")
     # Add your model 3 code here
+    
+print("model three is working fine so I'll use model3")
